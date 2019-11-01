@@ -1,0 +1,2 @@
+domain = "rescheduler.alpha.cds-snc.ca"
+name = "rescheduler-alpha-cds-snc-ca"
